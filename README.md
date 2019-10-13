@@ -12,3 +12,5 @@ setInterval(function() {
         $(input).trigger(ev)
     }
 }, 100)
+
+Copy the link in raw for it to work
